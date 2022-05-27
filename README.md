@@ -23,7 +23,7 @@
   <p>I'm also open to collaborating on projects!</p>
 </div>
 <br>
-<br>
+
 
 --- 
 
