@@ -30,13 +30,13 @@
   <h3>Languages and Tools</h3>
   <br>
   <div id="languages-tools">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" **alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/CSS3-0d1117?logo=css3" alt="CSS">&nbsp;
+    <img src="https://img.shields.io/badge/HTML5-0d1117?logo=html5" alt="HTML5">&nbsp;
+    <img src="https://img.shields.io/badge/JavaScript-0d1117?logo=javascript" alt="javascript">&nbsp;
+    <img src="https://img.shields.io/badge/NodeJS-0d1117?logo=nodedotjs" alt="node js">&nbsp;
+    <img src="https://img.shields.io/badge/Express-0d1117?logo=express" alt="express">&nbsp;
+  <img src="https://img.shields.io/badge/React-0d1117?logo=react" alt="React">&nbsp;
+    <img src="https://img.shields.io/badge/Git-0d1117?logo=git" alt="Git">
   </div>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-yung&theme=radical" alt="top languages">
