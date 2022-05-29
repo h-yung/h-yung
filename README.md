@@ -4,7 +4,7 @@
 
   <h1>Hi, I'm Helen 👋</h1>
      <div id="badges">
-    <a href="hyung.netlify.app/">
+    <a href="https://hyung.netlify.app/">
       <img src="https://img.shields.io/badge/Website-brightgreen?style=for-the-badge" alt="portfolio website">
     </a>
     <a href="https://www.linkedin.com/in/helen-h-yung/">
