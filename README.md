@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://i.postimg.cc/LscTbmXd/AHUber-instructions-transp.png" width="150"/>
+  <img src="https://raw.githubusercontent.com/h-yung/h-yung/main/auis.png" width="150"/>
 
   <h1>Hi, I'm Helen 👋</h1>
      <div id="badges">
