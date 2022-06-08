@@ -19,8 +19,9 @@
     <span>💬🐇</span>
   <br><br>
   <p>I am a full stack software engineer based in NY + Boston. But I can usually be found deep in a CSS rabbit hole.</p>
-  <p>I am currently building a travel app and interested in hearing about recent international travel experiences - as well as collaborating on related projects!</p>
-</div>
+  <p>I am currently building a travel app and interested in hearing about recent international travel experiences - as well as collaborating on related projects.</p>
+  <p>I can be reached via LinkedIn, Twitter, email, or via this <a href="https://hyung.netlify.app/#contact">contact form</a>.</p>
+</div>th
 <br>
 
 
