@@ -18,7 +18,6 @@
   <br>
 
   <p>I am a curiosity-driven, self-motivated software engineer interested in using tech and design to improve not just productivity but quality of life. Based in NY + Boston but usually found deep in a CSS rabbit hole.</p>
-  <br><br>
 <p>Contact me via LinkedIn, the platform formerly known as Twitter, or this <a href="https://hyung.netlify.app/#contact">contact form</a> if you'd like to work together!</p>
 </div>
 <br>
