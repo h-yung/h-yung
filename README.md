@@ -10,15 +10,12 @@
     <a href="https://www.linkedin.com/in/helen-h-yung/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </a>
-    <a href="https://twitter.com/h_h_yung">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
   </div>
   <br>
   <br>
 
   <p>I am a curiosity-driven, self-motivated software engineer interested in using tech and design to improve not just productivity but quality of life. Based in NY + Boston but usually found deep in a CSS rabbit hole.</p>
-<p>Contact me via LinkedIn, the platform formerly known as Twitter, on cara.app (@hyung) or this <a href="https://hyung.netlify.app/#contact">contact form</a> if you'd like to work together.</p>
+<p>Contact me via LinkedIn, on cara.app (@hyung) or this <a href="https://hyung.netlify.app/#contact">contact form</a> if you'd like to work together. Left X and may join BlueSky.</p>
 </div>
 <br>
 
